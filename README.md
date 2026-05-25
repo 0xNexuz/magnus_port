@@ -31,6 +31,7 @@ The site is designed as a premium builder dossier: bold editorial typography, da
 - Intersection-based reveal animations.
 - Pointer glow interaction.
 - Editorial project cards and case files.
+- Job-category frames that map best builds to protocol, product, agentic infra, privacy, DePIN/data, and growth roles.
 - Auto-refreshing "Latest from GitHub" feed using the public GitHub API.
 - GitHub and X profile links.
 - Live demo links for selected projects.
