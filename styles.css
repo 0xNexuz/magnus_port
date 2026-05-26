@@ -1116,6 +1116,7 @@ pre {
   position: relative;
   z-index: 2;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   gap: 16px;
   padding: 24px clamp(20px, 6vw, 80px);
